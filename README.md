@@ -1,10 +1,10 @@
-# Zederrian Technology
+# Zederrian Technology - Gregtech Modern
 
 ![]( https://ftp.bmp.ovh/imgs/2020/10/6289f5d008844c8a.png )
 
-# Description
+# Original Description
 
-This is a resource pack for Gregtech created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), that matches [CyanideX's Unity](https://www.curseforge.com/minecraft/texture-packs/unity ) heavily.
+Original resource pack for Gregtech created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), that matches [CyanideX's Unity](https://www.curseforge.com/minecraft/texture-packs/unity ) heavily.
 
 Most pics are created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), additional textures created/redesigned by Tian_mi.
 
