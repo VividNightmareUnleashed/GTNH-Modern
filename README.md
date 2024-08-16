@@ -1,8 +1,6 @@
-# Zederrian Technology - Gregtech Modern
+# Gregtech New Horizons texture pack, including textures from LuV to UEV retrieved from [Gregtech Modern | https://github.com/GregTechCEu/GregTech-Modern]
 
-![]( https://ftp.bmp.ovh/imgs/2020/10/6289f5d008844c8a.png )
-
-# Credits
+PROJECT JUST STARTED! NO NEW TEXTURES ARE INCLUDED FOR NOW
 
 Original resource pack for Gregtech created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), that matches [CyanideX's Unity](https://www.curseforge.com/minecraft/texture-packs/unity ) heavily.
 
