@@ -1,4 +1,4 @@
-# Gregtech New Horizons texture pack, including textures from LuV to UEV retrieved from [Gregtech Modern | https://github.com/GregTechCEu/GregTech-Modern]
+# Gregtech New Horizons texture pack, including textures from LuV to UEV retrieved from [Gregtech Modern](https://github.com/GregTechCEu/GregTech-Modern)
 
 PROJECT JUST STARTED! NO NEW TEXTURES ARE INCLUDED FOR NOW
 
